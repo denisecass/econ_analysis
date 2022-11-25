@@ -54,7 +54,7 @@ We're finally at the last question for the Economic Cost Analysis Assignment! We
 
 **Q8. Complete a table and create a combo-chart (e.g. Column Chart to represent Overall Desalination Cost to Produce $/ML & Line Chart showing the Overall Average WBMP Market Price) that clearly illustrates the Overall Desalination Cost to Produce and the Overall Average WBMP Market Price. What do you note from this combo-chart?**
 
-# What-IF Analysis Tab
+# What-If Analysis Tab
 
 **Q11. Create table(s) explaining why the Quarter you are proposing is the best option for Southern Water Corp. when considering the impact on Revenues. You should accompany the table with an appropriate visual to help highlight the point you are trying to make. Note: Recall that for the Quarter you are recommending for a maintenance outage, the revenues for that entire quarter for Surjek will be 0. Remember, if we are producing no water - we can't earn revenues.**
 
