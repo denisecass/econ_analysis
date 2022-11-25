@@ -55,3 +55,12 @@ Now we've populated the Financial Budget - it's time for us to calculate the Fin
 And now we're finally at the last question for the Economic Cost Analysis Assignment! We've understood how supply and demand factors influence the pricing of our products. We've also understood how an economic metric (Cost to Produce for Desalinated Water) provides us a view as to how cost-effective our plants are and compared this to the budget. Now we'll close off the Economic Cost Analysis with an understanding of comparing the Market Price against the $/Mega-Litre of our individual desalination plants. 
 
 **Q8. Completing the table below, create a combo-chart (e.g. Column Chart to represent Overall Desalination Cost to Produce $/ML & Line Chart showing the Overall Average WBMP Market Price) that clearly illustrates the Overall Desalination Cost to Produce and the Overall Average WBMP Market Price. What do you note from this?**
+
+# What-IF Analysis Tab
+
+## Q11. Create table(s) explaining why the Quarter you are proposing is the best option for Southern Water Corp. when considering the impact on Revenues.##
+
+We recommend accompanying the table with an appropriate visual to help highlight the point you are trying to make. Note: Recall that for the Quarter you are recommending for a maintenance outage, the revenues for that entire quarter for Surjek will be 0. Remember, if we are producing no water - we can't earn revenues.
+
+*Well done! You've now completed the Economics Analysis!*
+
